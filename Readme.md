@@ -12,4 +12,4 @@
 * mouse tracker
 * JS typing speed test
 
-:metal :octocat
+:metal: :octocat:
